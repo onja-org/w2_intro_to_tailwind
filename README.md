@@ -13,6 +13,7 @@ The start of this lab will show you how to structure your elements with Tailwind
 
 Let's start by creating a sidebar that is fixed on the left side of the screen from top to bottom. We will add temporary elements with letters to make sure it is all working correctly.
 
+```
 <div class="fixed top-0 left-0 h-screen w-16 flex flex-col bg-gray-900 text-white shadow-lg">
     <i>A</i>
     <i>B</i>
@@ -20,6 +21,7 @@ Let's start by creating a sidebar that is fixed on the left side of the screen f
     <i>D</i>
     <i>E</i>
 </div>
+```
 
 Here is an explanation of each utility class used above:
 - **fixed** sets the position to fixed
