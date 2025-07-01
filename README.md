@@ -37,7 +37,7 @@ Here is an explanation of each utility class used above:
 
 ### Icons
 
-Now we need icons in our sidebar. These will be icons from the font awesome website, the <script> tag in the <head> of the document will allow these icons to be used. Inside the sidebar <div>, each icon will have its own <div> and an <i> element which will have a class from the font awesome website to fetch the icon.
+Now we need icons in our sidebar. These will be icons from the font awesome website, the <script> tag in the <head> of the document will allow these icons to be used. Inside the sidebar `<div>`, each icon will have its own `<div>` and an `<i>` element which will have a class from the font awesome website to fetch the icon.
 
 Here are the classes necessary for the first icon, the discord logo. 
 
