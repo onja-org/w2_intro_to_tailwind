@@ -26,14 +26,11 @@ w2-intro-to-tailwind/
 ├── assets/
 ├── lab/
 │   ├── container-basic/        # Exercise
-│   │   ├── index.html
-│   │   ├── styles.css      ← YOU EDIT THIS
+│   │   ├── index.html          <-- You Edit this
+│   │   ├── styles.css          <-- You Edit this
 │   │   └── README.md
-│   ├── Lesson/                 # Read these first
+│   ├── Lesson/                 # Read this first
 │   │   ├── tailwind-css-lesson.md
-│   └── tests/
-│       ├── container-basic.test.js
-│       └── grid-area.test.js
 
 ```
 
