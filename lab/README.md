@@ -37,7 +37,7 @@ Here is an explanation of each utility class used above:
 
 ### Icons
 
-Now we need icons in our sidebar. These will be icons from the font awesome website, the <script> tag in the <head> of the document will allow these icons to be used. Inside the sidebar `<div>`, each icon will have its own `<div>` and an `<i>` element which will have a class from the font awesome website to fetch the icon.
+Now we need icons in our sidebar. These will be icons from the font awesome website, the `<script>` tag in the `<head>` of the document will allow these icons to be used. Inside the sidebar `<div>`, each icon will have its own `<div>` and an `<i>` element which will have a class from the font awesome website to fetch the icon.
 
 Here are the classes necessary for the first icon, the discord logo. 
 
@@ -86,13 +86,16 @@ List of messages, with a user profile picture, username, and message
 
 Input field at the bottom of the screen to send a new message to the server (does not need to be functional).
 
+**Have fun with it!** Create usernames for you and your friends, add funny messages, be creative!
+
 ### Bonus features
 
 - Using the given colors from tailwind does not match Discord completely. Create custom CSS classes in a CSS file to use matching colors
 
-    Discord primary color: #202225
-            secondary color: #2f3136
-            tertiary color: #36393f
+    Discord Colors:
+     - primary color: #202225
+     - secondary color: #2f3136
+     - tertiary color: #36393f
 
     Example: 
         CSS File
@@ -104,4 +107,8 @@ Input field at the bottom of the screen to send a new message to the server (doe
         HTML/Tailwind
         class="other classes... bg-primary ...other classes"
 
-- 
+
+## Final Result
+
+Once you've completed all the steps above (including the bonus feature), your discord clone should look something like this:
+<img src='../assets/discordResult.png'>
